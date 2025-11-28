@@ -1,4 +1,0 @@
-# .streamlit/packages.txt
-libsm6
-libxrender1
-libfontconfig1
